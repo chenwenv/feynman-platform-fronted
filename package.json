@@ -11,9 +11,15 @@
   },
   "dependencies": {
     "axios": "^1.13.1",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.4"
+    "dompurify": "^3.3.0",
+    "katex": "^0.16.9",
+    "mermaid": "^11.12.1",
+    "react-katex": "^3.1.0",
+    "react-markdown": "^8.0.7",
+    "react-router-dom": "^7.9.4",
+    "rehype-katex": "^6.0.3",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^5.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
